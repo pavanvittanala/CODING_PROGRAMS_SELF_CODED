@@ -36,4 +36,4 @@ elif c1 <= c3:
 else:
     st=st.replace("b","a")
     st=st.replace("c","a")
-print("Finalllll String :",st)
+print("Final String :",st)
